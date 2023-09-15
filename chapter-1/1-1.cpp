@@ -11,5 +11,4 @@ int main()
     cout << "radius = " << r << endl; //输出数据
     cout << "girth = " << girth << endl;
     cout << "area = " << area << endl;
-    system("pause");
 }
